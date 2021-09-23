@@ -6,8 +6,10 @@ using System.Web;
 
 namespace KudMVCapp.Models
 {
+    //model stuff to get data
     public class EmployeeContext : DbContext
     {
+        public string s;
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Department> Departments { get; set; }
     }
