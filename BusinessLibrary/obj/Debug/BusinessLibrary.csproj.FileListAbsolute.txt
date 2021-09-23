@@ -1,0 +1,6 @@
+C:\Users\nikhil.sharma\source\repos\KudMVCapp\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+C:\Users\nikhil.sharma\source\repos\KudMVCapp\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+C:\Users\nikhil.sharma\source\repos\KudMVCapp\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.AssemblyReference.cache
+C:\Users\nikhil.sharma\source\repos\KudMVCapp\BusinessLibrary\obj\Debug\BusinessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikhil.sharma\source\repos\KudMVCapp\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+C:\Users\nikhil.sharma\source\repos\KudMVCapp\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
